@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Alan {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
-        Double a,b,c;
+        double a,b,c;
         System.out.println("A kenarı için değer giriniz: ");
         a = input.nextDouble();
 
